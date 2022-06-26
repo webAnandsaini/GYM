@@ -26,7 +26,6 @@
 
 #links:hover {
     color: red;
-    background-color: rgb(12, 182, 83);
 }
 
 .section1 {
@@ -53,7 +52,6 @@
 .bbtn {
     margin: 20px;
     background-color: #fff;
-    border-top: 2px solid rgb(226, 16, 16);
 
 }
 
